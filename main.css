@@ -1,0 +1,26 @@
+.bg{
+    background-color: rgb(236, 132, 219);
+    border: 10px solid yellowgreen;
+    border-radius: 15px;
+    border-left:10px solid rgb(83, 119, 11) ;
+    margin: 20px;
+    padding: 10px;
+    
+}
+h2{
+    color: rgb(56, 27, 6);
+    text-align: center;
+}
+.heading{
+    color: seagreen;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.authorName{
+    color: rgb(168, 3, 44);
+}
+.para{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
