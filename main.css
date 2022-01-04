@@ -7,6 +7,9 @@
     padding: 10px;
     
 }
+#red{
+    background-color: rgba(70, 235, 221, 0.966);
+}
 h2{
     color: rgb(56, 27, 6);
     text-align: center;
